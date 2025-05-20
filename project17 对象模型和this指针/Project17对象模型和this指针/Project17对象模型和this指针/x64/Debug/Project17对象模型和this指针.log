@@ -1,0 +1,7 @@
+﻿  03 空指针调用成员函数.cpp
+  04 const修饰成员函数.cpp
+D:\VS projects\project17 对象模型和this指针\Project17对象模型和this指针\Project17对象模型和this指针\04 const修饰成员函数.cpp(35,16): warning C4269: “p”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+  05 .cpp
+  正在生成代码...
+05 .obj : error LNK2005: main 已经在 04 const修饰成员函数.obj 中定义
+D:\VS projects\project17 对象模型和this指针\Project17对象模型和this指针\x64\Debug\Project17对象模型和this指针.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
